@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="bluetooth_manager">Bluetooth Manager</string>
+    <string name="turn_on">Encender BT</string>
+    <string name="turn_off">Apagar BT</string>
+    <string name="history">Historial</string>
+    <string name="already_enable">Ya se encuentra encendido</string>
+    <string name="already_disable">Ya se encuentra apagado</string>
+    <string name="bluetooth_turn_on">Bluetooth fue encendido</string>
+    <string name="bluetooth_turn_off">Bluetooth fue  apagado</string>
+</resources>
